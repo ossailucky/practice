@@ -1,0 +1,45 @@
+body{
+    background-color: #eee;
+}
+
+section{
+    width: 100%;
+    max-width: 80%;
+    margin: auto;
+    background-color: #fff;
+}
+
+.address{
+    width: 100%;
+    max-width: 45%;
+    margin-left: auto;
+    margin-top: 2rem;
+    line-height: 10px;
+}
+
+.reci {
+    line-height: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+.salute{
+    margin-left: 10px;
+}
+
+.text{
+    margin-left: 10px;
+    line-height: 20px;
+}
+
+.close{
+    width: 45%;
+    margin-left: auto;
+}
+hr{
+    border: 1px solid black;
+}
