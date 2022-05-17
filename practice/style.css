@@ -32,8 +32,9 @@ h2{
 }
 
 .text{
-    margin-left: 10px;
+    margin-left: 20px;
     line-height: 20px;
+    margin-right: 20px;
 }
 
 .close{
@@ -42,4 +43,5 @@ h2{
 }
 hr{
     border: 1px solid black;
+    margin-right: 180px;
 }
